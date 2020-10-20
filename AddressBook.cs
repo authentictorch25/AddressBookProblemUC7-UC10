@@ -225,6 +225,7 @@ namespace AddressBookSystem
                     {   // ensure item found
                         this.contactList.RemoveAt(index);
                     }
+
                     this.nameToContactMapper.Remove(name);
                     Console.WriteLine("Contact deleted successfully");
                 }
