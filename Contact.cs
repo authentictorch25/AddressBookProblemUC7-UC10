@@ -2,7 +2,7 @@
 // <copyright file="Contact.cs" company="Bridgelabz">
 //   Copyright © 2018 Company
 // </copyright>
-// <creator Name="Akshay"/>
+// <creator Name="Akash Pratap SIngh"/>
 // --------------------------------------------------------------------------------------------------------------------
 namespace AddressBookSystem
 {
